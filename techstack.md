@@ -24,8 +24,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/java-4](https://github.com/nice-org-two/java-4)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|131<br/>Contributors|11/08/23 <br/>Report generated|04/26/22<br/>Last commit date|
-|------|------|------|------|
+|4<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
